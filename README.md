@@ -1,5 +1,5 @@
 # Book-Recommender-System (Industry Implications)
-This ML model can recommend a user upto 5 books to read based on his/her previous preferences. This model has huge implications in the domain of E-Commerence as 
+This ML model can recommend a user upto 5 books to read based on his/her previous preferences. This model has huge implications in the domain of E-Commerce as 
 it forms the backbone of the platforms that use audience's preferences and proximity to recommend them further desirable items. 
 
 ## Technology Used
